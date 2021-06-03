@@ -1,19 +1,3 @@
-### アプリ
-[Cafelog](https://github.com/jun9130/cafelog)　
-
-### アウトプット
-[はてなブログ](https://jun9130.hatenablog.com/) 
-
-### JavaScript 
-[ToDo リスト](https://github.com/jun9130/javascript_lesson/tree/master/todo)
-
-[電卓](https://github.com/jun9130/javascript_lesson/tree/master/dentaku)
-
-### Vue.js
-[ToDo リスト](https://github.com/jun9130/vuejs/tree/master/todo)
-
-### Ruby
-[カレンダー](https://github.com/jun9130/ruby_lesson/tree/master/calendar)
 
 
 
